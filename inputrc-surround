@@ -371,6 +371,8 @@ set keymap vi-command
 "ysiW'": "lmtBi'\eEa'\e`t"
 "ysiw*": "lmtbi*\eea*\e`t"
 "ysiW*": "lmtBi*\eEa*\e`t"
+"ysiw>": "lmtbi<\eea>\e`t"
+"ysiw<": "lmtbi< \eea >\e`tl"
 "ysiW>": "lmtBi<\eEa>\e`t"
 "ysiW<": "lmtBi< \eEa >\e`tl"
 "ysiw`": "lmtbi`\eea`\e`t"
